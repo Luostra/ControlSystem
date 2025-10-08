@@ -92,7 +92,7 @@ const onFormSubmit = async (e) => {
         <div class="">
           <h1 class="font-medium text-2xl text-gray-500 text-center pt-4">Регистрация</h1>
           <p class="font-medium text-sm text-gray-500 text-center pt-2">
-            Создайте аккаунт, чтобы не потерять свой список дел:
+            Создайте аккаунт, чтобы воспользоваться системой контроля:
           </p>
           <Form
             v-slot="$form"
